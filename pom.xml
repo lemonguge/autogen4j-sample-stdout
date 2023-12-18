@@ -34,7 +34,7 @@
         <dependency>
             <groupId>cn.homj.autogen4j</groupId>
             <artifactId>autogen4j-agent</artifactId>
-            <version>1.0.0-SNAPSHOT</version>
+            <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba.fastjson2</groupId>
